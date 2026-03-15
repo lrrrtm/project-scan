@@ -1,0 +1,8 @@
+[package]
+name = "project-scan"
+version = "0.1.0"
+edition = "2021"
+description = "Оператор ProjectScan — реализация проекции в конвейере выполнения запросов СУБД"
+
+[dependencies]
+thiserror = "2"
